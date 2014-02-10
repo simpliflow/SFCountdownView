@@ -1,0 +1,14 @@
+PODS:
+  - SFCountdownView (0.0.1)
+
+DEPENDENCIES:
+  - SFCountdownView (from `../`)
+
+EXTERNAL SOURCES:
+  SFCountdownView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SFCountdownView: 6d82f7d6354523507fd73271aa4fc69c57a9f41d
+
+COCOAPODS: 0.29.0
